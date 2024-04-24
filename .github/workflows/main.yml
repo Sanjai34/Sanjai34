@@ -1,5 +1,5 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
-name: Generate Snake
+name: Sanjai34
 
 # Controls when the action will run.
 on:
