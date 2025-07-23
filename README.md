@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanjai+Balakrishnan!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Cloud developer from India</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying on **Electronics and Communication Engineering at MKCE**
  
- 🌱 I’m currently learning **Figma,ML/DL,AWS cloud**
+ 🌱 I’m currently learning **ML Algorithm,AWS cloud**
 
 💬 Ask me about **cloud , TensorFlow, Keras... or anything [here](https://github.com/Sanjai34/Sanjai34/issues)**
 
