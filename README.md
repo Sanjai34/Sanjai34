@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final Year Electronics & Communication Engineering student  
+- 🎓 Graduate Electronics & Communication Engineering   
 - ☁️ Passionate about **Cloud Computing**, **DevOps Practices**, and **Infrastructure as Code**
 - ✅ AWS Certified Developer – Associate  
 - ✅ Google Cloud Certified (Foundational/Associate level)
@@ -35,7 +35,7 @@
 
 ### 📜 Certifications
 
-- 🏅 [AWS Certified Developer – Associate](https://www.credly.com/badges/...)  
+- 🏅 [AWS Certified Developer – Associate](https://www.credly.com/badges/a2d3e942-099d-4e26-afda-f7564ba635ec)  
 - 🏅 [Google Cloud Digital Leader / Associate Cloud Engineer](https://www.credly.com/badges/...) *(update with your actual badge link)*
 
 ---
