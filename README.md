@@ -25,7 +25,7 @@
 - **Languages:** Java, Python (Basics), Bash
 - **Cloud Platforms:**  
   ![AWS](https://www.credly.com/badges/a2d3e942-099d-4e26-afda-f7564ba635ec)  
-  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
+  ![Google Cloud](https://www.credly.com/badges/9d89b975-c244-41b5-9f2c-7271cb36fd44/public_url)
 - **Tools & DevOps:**  
   Git, GitHub, Linux, VS Code, IntelliJ, Cloud Console, CLI  
 - **Database:** MySQL  
